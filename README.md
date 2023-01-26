@@ -1,2 +1,1 @@
-# hw2-2023
-<p> Claire Chen </p>
+# 539w2023_hw2_simple_css
